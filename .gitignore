@@ -1,0 +1,10 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Fonts (licensed — never commit)
+*.otf
+*.ttf
+*.ttc
